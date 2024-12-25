@@ -1,8 +1,8 @@
 function App() {
   return(
-  <h1>Hello Welcome</h1>
+  <h1>Hello From React JS</h1>
   
   );
 }
 
-export default App;S
+export default App;
